@@ -12,3 +12,6 @@ fINAL CAHNEGS ON READ ME
 ####COpy right
 
 addded
+
+
+How to cointribute
