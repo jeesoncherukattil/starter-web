@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Jeeosn> -- <Cloud Operations Engineer> -- <@jeesonjoseph>
 
 # THANKS
 
-    <name>
+    <Jeeson Joseph>
 
 # TECHNOLOGY COLOPHON
 
