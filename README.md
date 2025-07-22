@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 
 fINAL CAHNEGS ON READ ME
 
+####COpy right
+
+addded
